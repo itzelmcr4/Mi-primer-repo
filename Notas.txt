@@ -1,0 +1,5 @@
+Markdown
+Copiar código
+Mis Notas sobre Git:
+1. Git es un sistema de control de versiones
+2. GitHub desktop es una plataforma para almacenar y compartir proyectos
